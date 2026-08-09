@@ -1,0 +1,13 @@
+{
+  "name": "liuyao-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/server.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lunar-javascript": "^1.7.7"
+  }
+}
